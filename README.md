@@ -267,3 +267,23 @@ Appstore apps made with Framework7: https://framework7.io/showcase/
 - [v3 branch](https://github.com/framework7io/Framework7/tree/v3)
 - [v2 branch](https://github.com/framework7io/Framework7/tree/v2)
 - [v1 branch](https://github.com/framework7io/Framework7/tree/v1)
+
+<div align="center">
+    <a href="https://php.net">
+        <img
+            alt="PHP"
+            src="https://www.php.net/images/logos/new-php-logo.svg"
+            width="150">
+    </a>
+</div>
+
+# The PHP Interpreter
+
+PHP is a popular general-purpose scripting language that is especially suited to
+web development. Fast, flexible and pragmatic, PHP powers everything from your
+blog to the most popular websites in the world. PHP is distributed under the
+[PHP License v3.01](LICENSE).
+
+## Documentation
+
+The PHP manual is available at [php.net/docs](https://php.net/docs).
